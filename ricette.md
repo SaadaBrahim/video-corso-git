@@ -3,3 +3,4 @@
 * pizza
 * riso
 * carbonara
+* minestrone
