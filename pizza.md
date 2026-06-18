@@ -6,3 +6,4 @@ pizza
 
 * farina
 * olio
+* pomodoro
